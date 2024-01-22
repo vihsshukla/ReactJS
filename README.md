@@ -76,5 +76,24 @@ const HeadingComponent=()=> (
     <h2 className="heading">React Functional Component</h2>
   </div>
   
-);```
+);
+```
+# Redux Toolkit
+- Install @reduxjs/toolkit and react-redux
+- Build our store
+- Connect store to app
+- Slice (cartSlice)
+- dispatch(action)
+- Selector
 
+# Types of testing/ React testing library and Jest
+- Unit testing
+- Integration testing
+- End to end testing(E2E)
+
+# Setting up testing
+- Install react testing library
+- Install jest
+- Install Babel dependencies
+- Configured Babel
+- Configured Parcel config file to disable default babel transpilation
